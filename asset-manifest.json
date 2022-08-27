@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e5545c5.css",
+    "main.js": "/static/js/main.8a300f52.js",
+    "static/media/gurucool-hero.png": "/static/media/gurucool-hero.9662387ba2ef136efcf6.png",
+    "static/media/education.png": "/static/media/education.6929b433e8f1f9064887.png",
+    "static/media/campus.svg": "/static/media/campus.e557f9f14957c137f28c1c42b9ff1b1c.svg",
+    "static/media/512px-World_map_with_points.svg.png": "/static/media/512px-World_map_with_points.svg.2e5f52038348ddb5202a.png",
+    "static/media/leader.svg": "/static/media/leader.118969ec792a1294e4f0a44f6f30c086.svg",
+    "static/media/connect.svg": "/static/media/connect.492934fe73067feb8fb00e822c539a70.svg",
+    "static/media/waveBottom-boat-mob.svg": "/static/media/waveBottom-boat-mob.e2db5e88c393f72fe7f5bd8eb0a7eab7.svg",
+    "static/media/waveBottom.svg": "/static/media/waveBottom.d9b50ae105962c0ee389442b5d54b3f9.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon-black.svg": "/static/media/search-icon-black.e0b696f327468be32ac4c5e19adcf6ce.svg",
+    "static/media/search-icon-white.svg": "/static/media/search-icon-white.3370a1787f3b47e6d993fe46e75dec3a.svg",
+    "static/media/boat.svg": "/static/media/boat.d1d038d39a24dc4bb922.svg",
+    "static/media/boat-mobile.svg": "/static/media/boat-mobile.c6ada1dbf247acee03e0.svg",
+    "main.4e5545c5.css.map": "/static/css/main.4e5545c5.css.map",
+    "main.8a300f52.js.map": "/static/js/main.8a300f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e5545c5.css",
+    "static/js/main.8a300f52.js"
+  ]
+}
